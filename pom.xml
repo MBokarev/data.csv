@@ -21,6 +21,12 @@
             <version>5.7.0</version>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.clojure</groupId>
+            <artifactId>data.csv</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

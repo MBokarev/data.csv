@@ -1,0 +1,4 @@
+User registered + under limit, 100060, true, 30
+User registered + over limit, 100000060, true, 500
+User unregistered + under limit, 100060, false, 10
+User registered + over limit, 100000060, false, 500
